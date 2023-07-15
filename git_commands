@@ -1,0 +1,12 @@
+git status
+
+git clone <URL>
+git checkout <branchname>
+git commit -m <"Message">
+git push origin <name>
+
+
+#Add token based to connect to git project 
+git remote set-url origin https://<token>@github.com/<username>/<repo>
+
+
